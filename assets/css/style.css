@@ -4,7 +4,7 @@
   }
 
   nav {
-    background-image: url("assets/images/backgroundimg.jpg");
+    background-image: url("../assets/images/backgroundimg.jpg");
   }
 
   #logo {
@@ -67,5 +67,5 @@
   }
 
   footer {
-    background-image: url("assets/images/backgroundimg.jpg");
+    background-image: url("../assets/images/backgroundimg.jpg");
   }
