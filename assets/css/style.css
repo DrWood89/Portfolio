@@ -1,0 +1,71 @@
+#head {
+    height: 120px;
+    margin-bottom: 120px;
+  }
+
+  nav {
+    background-image: url("assets/images/backgroundimg.jpg");
+  }
+
+  #logo {
+    font-size: 60px;
+    padding-bottom: 20px;
+  }
+
+  p {
+    font-size: 15px;
+  }
+
+  #email {
+    font-size: 35px;
+  }
+
+  #contact {
+    font-size: 25px
+  }
+
+  .background {
+    background: #ff4081;
+  }
+
+  .right {
+    padding-top: 3px;
+  }
+
+  body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+  }
+
+  .bio {
+    padding: 2%;
+    font-size: 20px;
+  }
+
+  .icons {
+    padding: 5px;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+  .name .email {
+    font-size: 30px;
+  }
+
+  .tabs .indicator {
+    background-color: #e0f2f1;
+    height: 60px;
+    opacity: 0.3;
+  }
+
+  .confirmation-tabs-btn {
+    position: absolute;
+  }
+
+  footer {
+    background-image: url("assets/images/backgroundimg.jpg");
+  }
